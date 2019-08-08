@@ -1,0 +1,3 @@
+Search for "What is pub-sub and observer" and fully understand them
+
+Search for "React Hooks" but this time learn it fully up to bottom
