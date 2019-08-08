@@ -42,7 +42,7 @@ You can find more about here -> https://mongoosejs.com
 I learned how to write a MERN Stack application. And also what Express and MongoDB are. I learned how to use them and how they work.
 
 # Before you run this project!!
-You will need Node.js and MongoDB installed on your computer. Once you install them open ...MongoDB/Server/<Version>/bin on a command
+You will need Node.js and MongoDB installed on your computer. Once you install them open ...MongoDB/Server/"Version"/bin on a command
 prompt and write "mongod" to start server.
 
 ## Available Scripts
